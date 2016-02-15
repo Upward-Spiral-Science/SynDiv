@@ -11,10 +11,10 @@
 > numeric and integer
 
 - *What are the features?*
-The features are explained [here](data/syn-diversity/features.md).
+The features are explained [here](https://github.com/Upward-Spiral-Science/data/blob/master/syn-diversity/features.md).
 
 - *Are there any missing entries?*
-> No, there are no missing entries.
+> There are no missing entries.
 
 **Exploratory**
 - *Where do the data live?*
